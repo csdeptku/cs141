@@ -1,0 +1,46 @@
+1) If string s = "coding". What will s[2] evaluate to?
+    o
+    d
+    i
+
+2) If string s = "coding". What will s.length() evaluate to?
+    6
+    5
+
+3) If string s = "Hey-Programmers". What will s.length() < 5 evaluate to?
+    15
+    true
+    10
+    false
+    That is not valid code.
+
+4) What is the index of g in the string "coding"?
+    5
+    6
+
+                    .
+                    .
+                    .
+                    .
+                    .
+                Solutions
+                    .
+                    .
+                    .
+                    .
+                    .
+
+1) d
+    EXPLANATION: "c" is at index 0, "o" is at 1, 
+    "d" is at 2, etc..
+
+2) 6
+    EXPLANATION: .length() will give back the 
+    number of characters in a string.
+
+3) false
+    EXPLANATION: (s.length < 5) -> (15 < 5) -> (false).
+
+4) 5
+    EXPLANATION: The first character of a string has index 0, 
+    the second has index 1, etc..
